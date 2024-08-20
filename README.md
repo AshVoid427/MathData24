@@ -1,1 +1,1 @@
-[Website].https://AshVoid427.github.io/MathData24/
+[Website].(https://AshVoid427.github.io/MathData24/)
