@@ -10,3 +10,6 @@ Scalar is across, Vectors is vertical, matrix is the combination, a 3d version i
 Pytorch and tenserflow are computer languages high paying jobs
 batch (how many, height of image, width of the image, and color channels (bw is 1, rbg is a 3, hyperspectral has more than these but the basic is the 3)
 channel 4 is rgb alpha where it has a transparency
+
+Sick animals
+fake cards vs real cards
