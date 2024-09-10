@@ -18,3 +18,10 @@ black and white has 256 levels, there can be b/w rbg, multipspectral or hyperspe
 imread is image read in python
 half a byte is called a nibble lol
 you can get the color map (cmap) through a site
+
+9/10/24
+X base time Weight base apllied to get an output
+the same applied can be weighted from others. 
+trying to figure out what factors might be more important than others. to give a decision of a yes or no similarity
+This is similar to last semester where using neural networks and removing columns based on the r squared
+
