@@ -37,3 +37,6 @@ Take the images as 28x28 and vectorize (which draw it by pixel as a straight lin
 One hot vector is the number 1 to 10 (number starts at 0 numbers) to pick one number, as all other are off the one it chose is on.
 Example:
     0000100000 = number 5 was chosen
+
+9/17/24
+taking an image and make a decision from it.
