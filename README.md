@@ -3,4 +3,4 @@
 
 [Colab](https://colab.research.google.com/drive/1bEAXQxmDnDuV8gH7TbsgRJR692fLytVm)
 
-[Slides](https://docs.google.com/presentation/d/1AZzm67nxyKtuX4ptp7oUvxYoRC_dMgBWlf7aV791Ghk/edit#slide=id.p)
+[Slides](https://docs.google.com/presentation/d/1vgKa2UWBolasl-_AqMXRKcI6KoFvu58C0XzjzhDgqHA/edit?usp=sharing)
