@@ -1,4 +1,5 @@
 #### URLS
+[Google Drive](https://drive.google.com/drive/folders/1H1bdlBtF-PJBdr84z53VjY_rfMUacMtL?usp=sharing)
 [Website](https://AshVoid427.github.io/MathData24/)
 
 [Colab General with start of Alexnet at the end](https://colab.research.google.com/drive/1bEAXQxmDnDuV8gH7TbsgRJR692fLytVm)
